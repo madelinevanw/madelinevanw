@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Madeline!
+- 👋🏻 Hi, I’m Madeline!
 - 🌱 I’m currently learning Python, CSS, HTML
 - 📫 How to reach me: madelinevanw@gmail.com
 - 😄 Pronouns: she/her
